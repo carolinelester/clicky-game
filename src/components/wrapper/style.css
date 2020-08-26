@@ -1,0 +1,23 @@
+
+
+.card-img-top:hover {
+    transform: scale(1.2);
+  }
+  .card-img-top {
+    transition: transform .2s;
+    border-radius: 15px;
+  }
+  .jumbotron {
+    background-image: url(paper.jpg);
+    color: white;
+    height: 255px;
+  }
+
+  body {
+      background-color: rgba(36, 55, 119, 1);
+  }
+
+  .container.row {
+      margin: 10px;
+  }
+  
